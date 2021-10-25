@@ -7,6 +7,6 @@ public class Main {
   }
 
   public static boolean checkIfInputIsAnEvenNumber(int number) {
-    return number % 2 == 0;
+    return number % 2 == 1;
   }
 }
